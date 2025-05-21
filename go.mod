@@ -3,7 +3,7 @@ module github.com/tgdrive/teldrive
 go 1.22.0
 
 require (
-	github.com/WinterYukky/gorm-extra-clause-plugin v0.2.1
+	github.com/WinterYukky/gorm-extra-clause-plugin v0.3.1
 	github.com/coocood/freecache v1.2.4
 	github.com/divyam234/cors v1.4.2
 	github.com/gin-contrib/pprof v1.5.0
@@ -63,7 +63,6 @@ require (
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gorm.io/driver/mysql v1.5.7 // indirect
-
 )
 
 require (
