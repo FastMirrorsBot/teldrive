@@ -28,7 +28,7 @@ require (
 	golang.org/x/time v0.7.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gorm.io/datatypes v1.2.4
-	gorm.io/driver/postgres v1.5.9
+	gorm.io/driver/postgres v1.5.11
 	gorm.io/gorm v1.25.12
 )
 
@@ -63,7 +63,6 @@ require (
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gorm.io/driver/mysql v1.5.7 // indirect
-
 )
 
 require (
