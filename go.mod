@@ -1,6 +1,6 @@
 module github.com/tgdrive/teldrive
 
-go 1.22.0
+go 1.23.0
 
 require (
 	github.com/WinterYukky/gorm-extra-clause-plugin v0.2.1
@@ -25,7 +25,7 @@ require (
 	go.etcd.io/bbolt v1.3.11
 	go.uber.org/fx v1.23.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/time v0.7.0
+	golang.org/x/time v0.12.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gorm.io/datatypes v1.2.4
 	gorm.io/driver/postgres v1.5.9
@@ -63,7 +63,6 @@ require (
 	golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gorm.io/driver/mysql v1.5.7 // indirect
-
 )
 
 require (
